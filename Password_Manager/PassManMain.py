@@ -1,8 +1,8 @@
 import hashlib
 import getpass
 #
-# from Demos.win32ts_logoff_disconnected import username
-# from docutils.parsers.rst.directives import choice
+# from Demos.win32ts_logoff_disconnected import username # Likely related to user or session management in a Windows terminal server context.
+from docutils.parsers.rst.directives import choice # Used in the context of reStructuredText to handle and validate input options for directives in documentation processing.
 
 password_manager = {}
 
